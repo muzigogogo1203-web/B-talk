@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+.claude/
+*.app
+docs/superpowers/
+docs/b-talk-portal-content-report.md

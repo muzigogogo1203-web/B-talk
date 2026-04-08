@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>B-talk</string>
+    <key>CFBundleDisplayName</key>
+    <string>B-talk</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.btalk.app</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleExecutable</key>
+    <string>BTalk</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>B-talk needs microphone access to capture your voice for speech-to-text transcription.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>B-talk uses Apple's built-in speech recognition to transcribe your voice to text.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+</dict>
+</plist>
